@@ -1,9 +1,9 @@
-name: gamegin
+name: gamgin
 description: A game emerges when a player interacts with a game engine.
-version: 0.0.0
+version: 0.0.0-a1
 
 environment:
-  sdk: '>=2.18.0 <3.0.0'
+  sdk: '>=3.0.1 <4.0.0'
   flutter: ">=1.17.0"
 
 dependencies:

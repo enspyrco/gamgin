@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:gamegin/gamegin.dart';
+import 'package:gamgin/gamgin.dart';
 
 void main() {
   test('adds one to input values', () {

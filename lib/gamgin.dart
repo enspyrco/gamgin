@@ -1,4 +1,4 @@
-library gamegin;
+library gamgin;
 
 /// A Calculator.
 class Calculator {

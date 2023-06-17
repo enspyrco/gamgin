@@ -1,6 +1,6 @@
-# gamegine
+# gamgin
 
-A game emerges when a player interacts with a game engine.
+*A game engine for adventuring.*
 
 ## Features
 
